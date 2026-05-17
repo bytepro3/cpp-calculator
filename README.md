@@ -31,6 +31,7 @@ Through this project, I mastered the following Git concepts:
 
 - Authenticating securely via SSH keys.
 
+
 - Safe feature development using Branches and Pull Requests.   
    
 
